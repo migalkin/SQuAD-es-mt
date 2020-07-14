@@ -15,5 +15,10 @@ This is one of the two es-SQuAD datasets used in the paper [El Departamento de N
 ### Citation
 If you find the dataset useful, please cite:
 ```
-[insert here]
+@inproceedings{Khvalchik2020ElDD,
+  title={El Departamento de Nosotros: How Machine Translated Corpora Affects Language Models in MRC Tasks},
+  booktitle={Proceedings of HI4NLP Workshop at ECAI 2020},
+  author={Maria Khvalchik and Mikhail Galkin},
+  year={2020}
+}
 ```
